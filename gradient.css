@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(to right, red, yellow);
+}
+
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    letter-spacing: 1em;
+    color: rgb(70, 70, 70);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    letter-spacing: .2em;
+    color: rgb(70, 70, 70);
+}
+
+input {
+    margin: 10px;
+}
+
+h3 {
+    text-align: center;
+}
